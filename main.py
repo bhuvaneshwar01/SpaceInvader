@@ -1,8 +1,8 @@
 # Import libraries
-import pygame
-import random
 import math
+import random
 
+import pygame
 from pygame import mixer
 
 # Initialised pygame
