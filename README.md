@@ -1,5 +1,7 @@
 # SpaceInvader
 
+Download pygame : pip install pygame
+Then Run main.py in cmd : python main.py
 
 ![image](https://user-images.githubusercontent.com/64410018/159152362-40e37b3e-0b3f-4fa3-b7bd-ff713df659ac.png)
 
